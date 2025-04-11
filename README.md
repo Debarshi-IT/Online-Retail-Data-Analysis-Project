@@ -36,8 +36,12 @@ Download the dataset from here if working locally.
 ## Requirements
 Make sure you have the following Python libraries installed:
 
-pandas
-numpy
-matplotlib
-openpyxl (for reading .xlsx files)
+1. pandas
+
+2. numpy
+
+3. matplotlib
+
+4. openpyxl (for reading .xlsx files)
+
 You can install these dependencies with: !pip install pandas numpy matplotlib openpyxl
